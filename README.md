@@ -68,4 +68,4 @@ Arrays make it very easy to loop through every user using a for loop or methods 
 
 Objects make it faster and easier to find one specific user because you can access them directly by a key (like their username) without looping through everything. But objects are not as simple to iterate through compared to an array, especially if you want to perform an action on every user.
 
-I would choose the object of objects approach for this situation because user lookup is very important in apps. Being able to find a user quickly by their username makes the app more efficient. The tradeoff is that looping through every user takes a little more work, but the speed of direct access makes up for it.
+I would choose the object of objects approach for this situation because user lookup is very important in apps. Being able to find a user quickly by their username makes the app more efficient. The tradeoff is that looping through every user takes a little more work, but the speed of direct access makes up for it. 
